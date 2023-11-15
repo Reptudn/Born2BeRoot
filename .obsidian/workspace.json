@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "7d772596ed91c779",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8a548ac705c2a5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6b6bf3d448c0b74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sabia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0afd39d99ddc8154",
+    "type": "split",
+    "children": [
+      {
+        "id": "30cabf29abc8d211",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14dee0b85f6cc1f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f9ef1128eb14bd99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0822a25f4e5ce234",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8870a733ec25168d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2ea2a66dcf65589",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d58d19daba7ae385",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sabia.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4eaf7712d588fbe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sabia.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "384526f236a811ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7e2f3eaccd1a19aa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sabia.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "c6b6bf3d448c0b74",
+  "lastOpenFiles": [
+    "Commands.md",
+    "Evaluation.md",
+    "signature.txt.md",
+    "User and Disk.md",
+    "Monitoring.md",
+    "PC 2-h-7.md",
+    "Sabia.md"
+  ]
+}

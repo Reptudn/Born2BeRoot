@@ -60,8 +60,9 @@ Cron is a command line utility to schedule commands or scripts to run at specifi
 - edit hostname: `sudo nano /etc/hostname` and change the name
 
 ## User and Groups
-- list all users: `less /etc/passwd`
-- list all goups: 
+- list all users: `cat /etc/passwd`
+- list all groups: `sudo getent group`
+- list groups of logged user: `grroups [<username>]` (username only when specific user)
 # Commands  
 
 | Command                               | What it does:                                                                       |                             |

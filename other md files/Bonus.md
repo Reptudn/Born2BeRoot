@@ -9,3 +9,5 @@
 - install nginx: `sudo apt-get install nginx`
 
 ## Database
+- access MariaDB command line: `sudo mysql -u root -p`
+- Privileges to wordpress_user@localhost and with pass 

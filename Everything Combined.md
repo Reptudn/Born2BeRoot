@@ -27,7 +27,7 @@ Easier to install and to configure
 |high-level package manager|lower-level package manager|  
 |"smarter" because it will remove unused packages or suggest installation of dependent packages|only does what u tipe in the cmd line|## AppArmor  
 
-App Armor is a security framework that protects the Linux system from potential security threats. It defines rules and restrictions for each application and ensures, that the programm only got the permission they absolutely need. If it behaves not normal AppArmor steps in to block its unauthorized actions.
+App Armor is a security framework that protects the Linux system from potential security threats. It defines rules and restrictions for each application and ensures, that the program only got the permission they absolutely need. If it behaves not normal AppArmor steps in to block its unauthorized actions.
 ## Password Rules  
 2 libs used (password quality checking lib and the `login.defs` which stores expiration rules) 
 
@@ -50,10 +50,14 @@ Authentication mechanism between client and host. Uses encryption techniques so 
 ## Cron  
 Cron is a command line utility to schedule commands or scripts to run at specific intervals. Useful if u wanna start your server at a specific time each day.  
 
-|Cmd|what it does|  
-|-|-|  
-|sudo crontab -u root -e|edit the cron job|  
-|*/1 * * * * sleep 30s && script path|run cron every 30 seconds|
+| Cmd                                  | what it does              |
+| ------------------------------------ | ------------------------- |
+| sudo crontab -u root -e              | edit the cron job         |
+| */1 * * * * sleep 30s && script path | run cron every 30 seconds |
+
+## Hostname
+- show hostname: `hostnamectl`
+- edit hostname: `sudo nano /etc/hostname` and change the name
 # Commands  
 
 | Command                               | What it does:                                                                       |                             |

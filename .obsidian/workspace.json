@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "User and Disk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b7ada093aeb4505",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Sabia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,14 +162,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c6b6bf3d448c0b74",
+  "active": "6b7ada093aeb4505",
   "lastOpenFiles": [
+    "User and Disk.md",
+    "Sabia.md",
+    "Monitoring.md",
     "Commands.md",
     "Evaluation.md",
     "signature.txt.md",
-    "User and Disk.md",
-    "Monitoring.md",
-    "PC 2-h-7.md",
-    "Sabia.md"
+    "PC 2-h-7.md"
   ]
 }

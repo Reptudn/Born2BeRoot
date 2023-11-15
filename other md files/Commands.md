@@ -55,6 +55,7 @@ To change the rules: `sudo nano /etc/pam.d/common-password`
 - Check local users: `sudo -d: -f1 /etc/passwd`
 - add User: `sudo adduser <username>`
 - Check Password rules in user `chage -l <username>`
+- delete user: `sudo deluser <username>`
 
 # Sudo Log
 go to `cd ~/../../` into the `var/log` folder where there is a `sudo` folder and inside there is a `sudo.log` file

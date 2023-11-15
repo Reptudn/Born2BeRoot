@@ -12,3 +12,4 @@
 ## Database
 - access MariaDB command line: `sudo mysql -u root -p`
 - Privileges to `wordpress_user@localhost `and with pass `wordpress456?`
+- wordpress folder is `/var/www/html/wordpess.jkauker.lan`

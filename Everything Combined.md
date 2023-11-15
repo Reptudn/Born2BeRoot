@@ -53,7 +53,7 @@ Cron is a command line utility to schedule commands or scripts to run at specifi
 | Cmd                                  | what it does              |
 | ------------------------------------ | ------------------------- |
 | sudo crontab -u root -e              | edit the cron job         |
-| */1 * * * * sleep 30s && script path | run cron every 30 seconds |
+| */10 * * * * sleep 10min && script path | run cron every 30 seconds |
 
 ## Hostname
 - show hostname: `hostnamectl`

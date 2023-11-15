@@ -18,3 +18,4 @@ Followed this tutorial:
 - page title: `jkauker42 wordpress page`
 - username: `jkauker42`
 - password: `ibims1wordpress!`
+- mail: `jkauker@studen.42heilbronn.de`

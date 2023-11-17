@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c6b6bf3d448c0b74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b7ada093aeb4505",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "other md files/Commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8bf52bad2aed9df3",
             "type": "leaf",
             "state": {
@@ -41,8 +17,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "other md files/Commands.md",
+                "file": "Pasted image 20231117110444.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "other md files/Commands.md",
+                "file": "Pasted image 20231117110444.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "other md files/Commands.md"
+                "file": "Pasted image 20231117110444.png"
               }
             }
           }
@@ -172,16 +147,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6b7ada093aeb4505",
+  "active": "8bf52bad2aed9df3",
   "lastOpenFiles": [
+    "README.md",
+    "other md files/Commands.md",
     "other md files/Evaluation.md",
     "other md files/Monitoring.md",
-    "other md files/Commands.md",
     "Everything Combined.md",
     "other md files/Bonus.md",
     "signature.txt.md",
     "PC 2-h-7.md",
-    "README.md",
     "Pasted image 20231117110444.png",
     "User and Disk.md",
     "other md files"

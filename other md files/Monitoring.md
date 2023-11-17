@@ -34,14 +34,15 @@ wall "	#Architecture: $arc
 	#Sudo: $cmds cmd"
 ```
 
-- uname -a shows system info like name
-- free -m: check the memory status and how muc is free
-- uniq: deletes repeated lines
-- sort: sorts
-- wc: calculates amount 
-- awk: text processing and can print with vars and arguments
-- who: print users that are currently logged in
-- hostname -I: prints name of current host
-- jounralctl: shows commands
-- ss -neopt state established: gets amount of current established connections
-- ip link show
+- `uname -a`: shows system info like name
+- `free -m`: check the memory status and how muc is free
+- `uniq`: deletes repeated lines
+- `sort`: sorts
+- `wc`: calculates amount 
+- `awk`: text processing and can print with vars and arguments
+- `who`: print users that are currently logged in
+- `who -b` prints time of system boot
+- `hostname -I`: prints name of current host
+- `jounralctl`: shows commands
+- `ss -neopt state established`: gets amount of current established connections
+- `ip link show | grep "ether"` : grabs ip mac addr and shows it

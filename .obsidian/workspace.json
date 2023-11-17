@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "other md files/Commands.md",
+                "file": "signature.txt.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "other md files/Commands.md",
+                "file": "signature.txt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "other md files/Commands.md",
+                "file": "signature.txt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "other md files/Commands.md"
+                "file": "signature.txt.md"
               }
             }
           }
@@ -164,10 +164,10 @@
   },
   "active": "6b7ada093aeb4505",
   "lastOpenFiles": [
+    "other md files/Commands.md",
     "other md files/Monitoring.md",
     "other md files/Evaluation.md",
     "Everything Combined.md",
-    "other md files/Commands.md",
     "other md files/Bonus.md",
     "User and Disk.md",
     "signature.txt.md",

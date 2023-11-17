@@ -3,6 +3,4 @@
 - then run `shasum Born2BeRoot.vdi`
 
 Signature:
-test
-- new `55baaafdba35c20dfde40d4de96b00ec418c8a3c`
-- old `50aaa0e904d7b39657208e85dac4abf4a9b1c15`
+before firs eval: `ea4ec35ae120fe9e09f88af50264bf53b79ba424`

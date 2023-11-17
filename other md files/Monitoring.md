@@ -41,3 +41,7 @@ wall "	#Architecture: $arc
 - wc: calculates amount 
 - awk: text processing and can print with vars and arguments
 - who: print users that are currently logged in
+- hostname -I: prints name of current host
+- jounralctl: shows commands
+- ss -neopt state established: gets amount of current established connections
+- ip link show

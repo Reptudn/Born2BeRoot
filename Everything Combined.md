@@ -11,12 +11,13 @@
 | TYPE | Typ z.B. disk fuer Festplatte|  
 | MOUNTPOINTS | Punkt, wo das Geraet eingebunden ist|# General Informations  
 ## Why Debian?  
-Easier to install and to configure
-## Difference between Debian and CentOS  
+Easier to install and to configure, more user friendly
+## Difference between Debian and Rocky  
 - Debian easier to update that CentOS  
 - Debian is more user-friendly + supports many libraries, filesystems and architectures
 - Debian allows 32bit
 - Debian is built on Ubuntu and focuses on stability
+- Rocky is built on RHEL which means no frequent updates because RHEL is designed for a longer use without having to update
 - Debian has more stable updates than rocky
 - Debian will be maintained longer than Rocky (rocky until 2029)
 - Debian supports more desktop systems like plasma ode gnome
@@ -31,6 +32,9 @@ Easier to install and to configure
 |----|------|  
 |high-level package manager|lower-level package manager|  
 |"smarter" because it will remove unused packages or suggest installation of dependent packages|only does what u tipe in the cmd line|## AppArmor  
+
+- Basically aptitude is the visual version of apt with extra features like also installing dependent packages and fixing errors themselves
+- AppAr
 
 App Armor is a security framework that protects the Linux system from potential security threats. It defines rules and restrictions for each application and ensures, that the program only got the permission they absolutely need. If it behaves not normal AppArmor steps in to block its unauthorized actions.
 ## Password Rules  

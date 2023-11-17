@@ -34,7 +34,7 @@ Easier to install and to configure, more user friendly
 |"smarter" because it will remove unused packages or suggest installation of dependent packages|only does what u tipe in the cmd line|## AppArmor  
 
 - Basically aptitude is the visual version of apt with extra features like also installing dependent packages and fixing errors themselves
-- AppAr
+- AppArmor is a security software that can give a program the rights that it needs and removes them if they don't need them anymore (if program behaves wrong app armor "blocks" the program)
 
 App Armor is a security framework that protects the Linux system from potential security threats. It defines rules and restrictions for each application and ensures, that the program only got the permission they absolutely need. If it behaves not normal AppArmor steps in to block its unauthorized actions.
 ## Password Rules  

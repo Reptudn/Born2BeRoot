@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Everything Combined.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "signature.txt.md",
-                "mode": "source",
+                "file": "other md files/Bonus.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Everything Combined.md",
+                "file": "other md files/Bonus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Everything Combined.md",
+                "file": "other md files/Bonus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Everything Combined.md"
+                "file": "other md files/Bonus.md"
               }
             }
           }
@@ -174,14 +174,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6b7ada093aeb4505",
+  "active": "8bf52bad2aed9df3",
   "lastOpenFiles": [
-    "other md files/Commands.md",
     "other md files/Monitoring.md",
+    "other md files/Evaluation.md",
+    "other md files/Commands.md",
     "Everything Combined.md",
     "signature.txt.md",
     "Pasted image 20231117110444.png",
-    "other md files/Evaluation.md",
     "other md files/Bonus.md",
     "User and Disk.md",
     "PC 2-h-7.md",

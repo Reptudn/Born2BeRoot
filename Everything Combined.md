@@ -71,7 +71,7 @@ Cron is a command line utility to schedule commands or scripts to run at specifi
 ## User and Groups
 - list all users: `cat /etc/passwd`
 - list all groups: `sudo getent group`
-- list groups of logged user: `grroups [<username>]` (username only when specific user)
+- list groups of logged user: `groups <username>`
 # Commands  
 
 | Command                               | What it does:                                                                       |                             |

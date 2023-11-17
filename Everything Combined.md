@@ -74,7 +74,7 @@ Cron is a command line utility to schedule commands or scripts to run at specifi
 | sudo ufw delete rule number           | nummerierte Liste aller aktiven UFW Regeln                                          |                             |
 | sudo ufw allow port-id                | erlaubt den Netzwerkverkehr auf dem angegebenen Port durch die Firewall             |                             |
 | sudo systemctl status ssh             | status of ssh                                                                       |                             |
-| ssh nsabia"127.0.0.1 -p 4242          | in iTerm it shows that the Port is active and working                               |                             |
+| ssh jkauker@127.0.0.1 -p 4242 / jkauker@localhost -p 4242         | in iTerm it shows that the Port is active and working                               |                             |
 | getent group sudo                     | shows sudo group                                                                    |                             |
 | getend group user42                   | shows user42 group                                                                  |                             |
 | sudo adduser new_username             | adds new user with sudo permission                                                  |                             |

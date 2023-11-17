@@ -25,6 +25,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Everything Combined.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bf52bad2aed9df3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "signature.txt.md",
                 "mode": "source",
                 "source": false
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "signature.txt.md",
+                "file": "Everything Combined.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "signature.txt.md",
+                "file": "Everything Combined.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "signature.txt.md"
+                "file": "Everything Combined.md"
               }
             }
           }
@@ -164,13 +176,14 @@
   },
   "active": "6b7ada093aeb4505",
   "lastOpenFiles": [
+    "signature.txt.md",
+    "Everything Combined.md",
+    "Pasted image 20231117110444.png",
     "other md files/Commands.md",
     "other md files/Monitoring.md",
     "other md files/Evaluation.md",
-    "Everything Combined.md",
     "other md files/Bonus.md",
     "User and Disk.md",
-    "signature.txt.md",
     "PC 2-h-7.md",
     "README.md",
     "other md files"

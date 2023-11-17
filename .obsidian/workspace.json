@@ -35,16 +35,14 @@
             "id": "8bf52bad2aed9df3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Everything Combined.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20231117110444.png"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Everything Combined.md",
+                "file": "other md files/Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Everything Combined.md",
+                "file": "other md files/Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Everything Combined.md"
+                "file": "other md files/Commands.md"
               }
             }
           }
@@ -174,16 +172,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8bf52bad2aed9df3",
+  "active": "6b7ada093aeb4505",
   "lastOpenFiles": [
+    "Pasted image 20231117110444.png",
+    "Everything Combined.md",
     "User and Disk.md",
     "other md files/Commands.md",
-    "Everything Combined.md",
     "other md files/Bonus.md",
     "other md files/Monitoring.md",
     "other md files/Evaluation.md",
     "signature.txt.md",
-    "Pasted image 20231117110444.png",
     "PC 2-h-7.md",
     "README.md",
     "other md files"

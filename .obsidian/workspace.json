@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "other md files/Bonus.md",
+                "file": "other md files/Commands.md",
                 "mode": "preview",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "other md files/Bonus.md",
+                "file": "other md files/Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "other md files/Bonus.md",
+                "file": "other md files/Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "other md files/Bonus.md"
+                "file": "other md files/Commands.md"
               }
             }
           }
@@ -176,13 +176,13 @@
   },
   "active": "8bf52bad2aed9df3",
   "lastOpenFiles": [
+    "Everything Combined.md",
+    "other md files/Bonus.md",
     "other md files/Monitoring.md",
     "other md files/Evaluation.md",
     "other md files/Commands.md",
-    "Everything Combined.md",
     "signature.txt.md",
     "Pasted image 20231117110444.png",
-    "other md files/Bonus.md",
     "User and Disk.md",
     "PC 2-h-7.md",
     "README.md",

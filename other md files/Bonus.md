@@ -19,3 +19,8 @@ Followed this tutorial:
 - username: `jkauker42`
 - password: `ibims1wordpress!`
 - mail: `jkauker@studen.42heilbronn.de`
+
+## Extra Service - Midnight Commander
+=> File manager
+- start with `mc` 
+- everything is clickable

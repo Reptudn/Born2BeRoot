@@ -35,4 +35,9 @@ wall "	#Architecture: $arc
 ```
 
 - uname -a shows system info like name
-- 
+- free -m: check the memory status and how muc is free
+- uniq: deletes repeated lines
+- sort: sorts
+- wc: calculates amount 
+- awk: text processing and can print with vars and arguments
+- who: print users that are currently logged in

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Everything Combined.md",
+                "file": "other md files/Commands.md",
                 "mode": "preview",
                 "source": false
               }
@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "other md files/Commands.md",
-                "mode": "preview",
+                "file": "User and Disk.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,16 +174,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8bf52bad2aed9df3",
+  "active": "6b7ada093aeb4505",
   "lastOpenFiles": [
     "Everything Combined.md",
+    "User and Disk.md",
+    "other md files/Commands.md",
     "other md files/Bonus.md",
     "other md files/Monitoring.md",
     "other md files/Evaluation.md",
-    "other md files/Commands.md",
     "signature.txt.md",
     "Pasted image 20231117110444.png",
-    "User and Disk.md",
     "PC 2-h-7.md",
     "README.md",
     "other md files"

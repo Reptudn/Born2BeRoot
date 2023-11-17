@@ -33,3 +33,6 @@ wall "	#Architecture: $arc
 	#Network: IP $ip ($mac)
 	#Sudo: $cmds cmd"
 ```
+
+- uname -a shows system info like name
+- 

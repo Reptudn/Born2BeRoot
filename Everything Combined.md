@@ -15,6 +15,11 @@ Easier to install and to configure
 ## Difference between Debian and CentOS  
 - Debian easier to update that CentOS  
 - Debian is more user-friendly + supports many libraries, filesystems and architectures
+- Debian allows 32bit
+- Debian is built on Ubuntu and focuses on stability
+- Debian has more stable updates than rocky
+- Debian will be maintained longer than Rocky (rocky until 2029)
+- Debian supports more desktop systems like plasma ode gnome
 ## Virtual Machine?  
 - Resource that uses software instead of physical computers to run programs or apps.  
 - VMs have their own operating system and work separately  

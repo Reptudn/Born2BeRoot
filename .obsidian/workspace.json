@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "signature.txt.md",
+                "file": "Everything Combined.md",
                 "mode": "preview",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "signature.txt.md",
+                "file": "Everything Combined.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "signature.txt.md",
+                "file": "Everything Combined.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "signature.txt.md"
+                "file": "Everything Combined.md"
               }
             }
           }
@@ -175,13 +175,13 @@
   "active": "6b7ada093aeb4505",
   "lastOpenFiles": [
     "other md files/Commands.md",
+    "Everything Combined.md",
+    "signature.txt.md",
     "other md files/Evaluation.md",
     "other md files/Monitoring.md",
-    "Everything Combined.md",
     "other md files/Bonus.md",
     "Pasted image 20231117110444.png",
     "User and Disk.md",
-    "signature.txt.md",
     "PC 2-h-7.md",
     "README.md",
     "other md files"

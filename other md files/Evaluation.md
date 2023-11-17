@@ -2,4 +2,4 @@
 - create user: `sudo adduser <username>` give password and information
 - add user to group: `sudo usermod -aG <groupname> <username>`
 - check current logged user groups: `groups <username>`
-- Check `login.defs` where password expire and pas change delay and amount of days is set when user is being notified before password expires with `nano /etc/login.defs`  -> to
+- Check `login.defs` where password expire and pas change delay and amount of days is set when user is being notified before password expires with `nano /etc/login.defs`  -> to check this again with: `sudo chage -l <username>`
